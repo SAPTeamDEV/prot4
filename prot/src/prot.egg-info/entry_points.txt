@@ -1,0 +1,3 @@
+[console_scripts]
+prot = prot.cli:main
+
